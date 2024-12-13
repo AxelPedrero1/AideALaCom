@@ -1,12 +1,48 @@
 # AideALaCom
-Ce projet est destiné à aider les personnes qui ont du mal à entendre, notamment dans des endroits où plusieurs personnes parlent en même temps, comme dans une réunion ou un groupe de travail. Le système va permettre à ces personnes de lire ce que les autres disent, grâce à un outil qui transforme les paroles en texte écrit, à l'écran, en temps réel. En plus de ça, le système va envoyer des alertes visuelles, comme des lumières ou des messages à l'écran, pour avertir l'utilisateur lorsqu'il y a un bruit important, comme un appel de son nom ou une alarme.
 
-étape 1 : découverte du sujet
-étape 2 : Explication en détail du contexte et du logiciel
-étape 3 : réalisation du diagramme des cas d'utilisation
-étape 4 : conception du diagramme de séquence
-étape 5 : conception du diagramme d'objet
-étape 6 : conception du diagramme de classes
-étape 7 : conception du diagramme d'états-transitions
-étape 8 : Architecture logique
-étape 9 : génération du squelette (avec Modelio)
+Ce projet est destiné à aider les personnes malentendantes, notamment dans des environnements bruyants tels que les réunions ou les groupes de travail. Le système permet aux utilisateurs de lire en temps réel ce que les autres disent en transformant les paroles en texte écrit affiché à l'écran. De plus, des alertes visuelles (lumières ou messages à l'écran) sont envoyées pour avertir l'utilisateur lorsqu'un bruit important, comme un appel de son nom ou une alarme, se produit.
+
+## Fonctionnalités principales
+
+- **Transcription en temps réel** : Les paroles des interlocuteurs sont automatiquement transformées en texte et affichées à l'écran.
+- **Alertes visuelles** : Le système détecte les bruits importants (par exemple, un appel par nom ou une alarme) et génère des alertes visuelles adaptées.
+
+## Étapes du projet
+
+### Étape 1 : Découverte du sujet
+Cette phase consiste à comprendre les besoins des utilisateurs et définir les objectifs du projet.
+
+### Étape 2 : Explication en détail du contexte et du logiciel
+Une analyse approfondie du contexte dans lequel le logiciel sera utilisé, ainsi qu'une étude des technologies et des méthodes pour y parvenir.
+
+### Étape 3 : Réalisation du diagramme des cas d'utilisation
+Création du diagramme décrivant les interactions entre l'utilisateur et le système, pour illustrer les différentes fonctionnalités proposées.
+
+### Étape 4 : Conception du diagramme de séquence
+Conception des diagrammes de séquences pour décrire les interactions dynamiques entre les différents composants du système.
+
+### Étape 5 : Conception du diagramme d'objet
+Modélisation des objets du système et de leurs relations, afin de mieux comprendre les entités principales du système.
+
+### Étape 6 : Conception du diagramme de classes
+Conception du diagramme de classes qui décrit la structure statique du système, avec les classes, leurs attributs et leurs méthodes.
+
+### Étape 7 : Conception du diagramme d'états-transitions
+Création du diagramme représentant les différents états d'un objet ou d'un processus et les transitions entre ces états.
+
+### Étape 8 : Architecture logique
+Définition de l'architecture logicielle globale du système, y compris les modules et leur communication.
+
+### Étape 9 : Génération du squelette (avec Modelio)
+Utilisation de Modelio pour générer un squelette de l'application, basé sur les diagrammes créés précédemment.
+
+## Technologies utilisées
+
+- **Java** : Langage de programmation pour la réalisation de la partie logicielle.
+- **Modelio** : Outil de modélisation UML pour la création des diagrammes.
+
+## Installation
+
+1. Clonez ce repository sur votre machine locale :
+   ```bash
+   git clone https://github.com/votreutilisateur/AideALaCom.git
