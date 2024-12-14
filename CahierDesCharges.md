@@ -24,42 +24,14 @@ Le projet cible principalement les **personnes malentendantes** participant à d
 
 ---
 
-## 4. Avantages du projet
-
-1. **Inclusion sociale**
-   - Meilleure intégration en groupe.
-   - Autonomie accrue grâce aux alertes visuelles.
-
-2. **Sécurité renforcée**
-   - Notifications pour les bruits critiques (alarme, détecteur de fumée).
-
-3. **Amélioration professionnelle**
-   - Participation active aux réunions.
-   - Réduction des malentendus.
-
-4. **Adaptabilité**
-   - Application dans divers contextes : maison, lieux publics, etc.
-   - Intégration future avec d'autres technologies (appareils auditifs, applications mobiles).
-
-5. **Impact technologique et sociétal**
-   - Innovation technologique.
-   - Contribution à une société plus inclusive.
-
----
-
-## 5. Freins (difficultés éventuelles)
+## 4. Freins (difficultés éventuelles)
 
 Le principal frein serait un problème technique provenant de l’hébergeur du site, bien que cela soit peu probable.
 
 ---
 
-## 6. Date prévue de l’événement
 
-Date non précisée dans le document.
-
----
-
-## 7. Fonctions
+## 5. Fonctions
 
 | Fonctions | Expressions | Critères |
 |-----------|-------------|----------|
@@ -70,13 +42,8 @@ Date non précisée dans le document.
 
 ---
 
-## 8. Rôles et missions de chacun
 
-Les rôles et missions spécifiques de chaque membre doivent être définis à travers un organigramme.
-
----
-
-## Description synthétique du domaine d'application
+## 6. Description synthétique du domaine d'application
 
 ### Public cible
 Personnes malentendantes, en particulier dans des environnements collaboratifs tels que des bureaux ou des salles de réunion.
