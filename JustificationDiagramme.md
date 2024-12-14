@@ -19,6 +19,19 @@ Le cas "Bruit ambiant + appel nom" est une extension de "Être alerté". Cela si
 
 ## 2) Séquence : 
 
+Orateur : Il initie le processus en parlant, ce qui génère un signal sonore capté par le micro.
+
+Micro : Il transmet le signal sonore au logiciel, servant d’interface entre l’orateur et la technologie.
+
+Logiciel : Il analyse le signal et exécute deux tâches distinctes grâce à une condition alt :
+
+- Si quelqu'un parle, le logiciel effectue une transcription des paroles pour l'afficher au malentendant.
+- Si un bruit ambiant spécifique (comme une alarme) est détecté, une alerte visuelle est envoyée au malentendant.
+  
+Le malentendant reçoit les informations via transcription ou alerte selon le contexte.
+
+Chaque colonne correspond à un acteur ou un composant (ex. Orateur, Micro, Logiciel, Malentendant).
+La ligne verticale sous chaque acteur est appelée ligne de vie : elle montre que l'objet existe durant toute la séquence.
 
 ## 3) Etats-transitions :
 
