@@ -59,9 +59,14 @@ Date non précisée dans le document.
 
 ---
 
-## 7. Planification du projet (diagramme de Gantt)
+## 7. Fonctions
 
-Un diagramme de Gantt doit être élaboré pour suivre la planification des tâches et des délais.
+| Fonctions | Expressions | Critères |
+|-----------|-------------|----------|
+| **fp1** | Transcrire automatiquement et en temps réel toutes les conversations de groupe en texte, de manière lisible pour la personne malentendante | **Entrée** : Signal audio (microphone captant la conversation) <br> **Sortie** : Texte visible à l’écran |
+| **fp2** | Identifier et afficher le nom de la personne qui parle, avec possibilité d’indiquer qui s’adresse spécifiquement à l’utilisateur malentendant | **Entrée** : Reconnaissance vocale et association de l’orateur à un profil ou à un identifiant. <br> **Sortie** : Affichage du nom de l’orateur à côté du texte transcrit. |
+| **fp3** | Fournir une alerte visuelle lorsque quelqu’un s’adresse spécifiquement à l’utilisateur malentendant | **Entrée** : Appui sur un bouton par un autre participant pour signaler qu’il s’adresse à la personne malentendante. <br> **Sortie** : Notification visuelle (popup) |
+| **fp4** | Détecter certains bruits de l’environnement (alarme, appel de nom, etc.) et fournir une notification visuelle à l’utilisateur malentendant | **Entrée** : Microphones captant les bruits ambiants. <br> **Sortie** : Notifications visuelles correspondant à des bruits spécifiques (ex. clignotement de lumière ou icône indiquant l’alarme). |
 
 ---
 
