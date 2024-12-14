@@ -36,8 +36,8 @@ Conception du diagramme d'activités représentant les différentes actions et d
 ### Étape 9 : Architecture logique
 Définition de l'architecture logicielle globale du système, y compris les modules et leur communication.
 
-### Étape 10 : Génération du squelette (avec Modelio)
-Utilisation de Modelio pour générer un squelette de l'application, basé sur les diagrammes créés précédemment.
+### Étape 10 : Création du squelette 
+Création du Squelette basé sur les diagrammes créés précédemment.
 
 ## Technologies utilisées
 
