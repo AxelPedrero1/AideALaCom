@@ -1,4 +1,5 @@
-# Cahier des charges
+# Architecture Logique du Projet
+# Composants principaux : 
 
 ## 1. Le contexte du besoin
 
