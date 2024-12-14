@@ -4,7 +4,7 @@ Malentendant :
 C’est l’utilisateur principal du système. Il souhaite :
 - Voir la transcription des paroles.
 - Recevoir des alertes pour des événements spécifiques (bruit ambiant ou appel).
-Orateur (acteur secondaire) :
+## Orateur (acteur secondaire) :
 C’est une personne qui parle et dont le discours est transcrit. Il interagit indirectement avec le système, mais son rôle est essentiel pour déclencher la transcription.
 
 Le malentendant a besoin de suivre la conversation en cours. Ce besoin est représenté par le cas d’utilisation "Voir la transcription".
