@@ -35,6 +35,20 @@ La ligne verticale sous chaque acteur est appelée ligne de vie : elle montre qu
 
 ## 3) Etats-transitions :
 
+L'état initial commence quand on a le logiciel qui est lancé mais aucune action est faite
+
+**En attente** : Le système est en attente d'une action comme "démarrer transcription".
+
+**Enregistrement et Analyse** : Le système capture le son et l'analyse pour transcription ou détection de sons spécifiques.
+
+**Transcription** : Conversion de l'audio en texte.
+
+**Notifications** : Alerte visuelle pour le son détecté (éventuellement personnalisable comme les push etc...) .
+
+**Affichage** : Montre la transcription à l'utilisateur via du texte généré automatiquement.
+
+
+
 ## 4) Classe :
 
 Classes :
