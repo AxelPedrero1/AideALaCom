@@ -30,16 +30,19 @@ Conception du diagramme de classes qui décrit la structure statique du système
 ### Étape 7 : Conception du diagramme d'états-transitions
 Création du diagramme représentant les différents états d'un objet ou d'un processus et les transitions entre ces états.
 
-### Étape 8 : Architecture logique
+### Étape 8 : Conception du diagramme d'activité
+Conception du diagramme d'activités représentant les différentes actions et décisions du système, ainsi que les transitions entre ces actions en fonction des événements détectés.
+
+### Étape 9 : Architecture logique
 Définition de l'architecture logicielle globale du système, y compris les modules et leur communication.
 
-### Étape 9 : Génération du squelette (avec Modelio)
+### Étape 10 : Génération du squelette (avec Modelio)
 Utilisation de Modelio pour générer un squelette de l'application, basé sur les diagrammes créés précédemment.
 
 ## Technologies utilisées
 
 - **Java** : Langage de programmation pour la réalisation de la partie logicielle.
-- **Modelio** : Outil de modélisation UML pour la création des diagrammes.
+- **Modelio & Dia** : Outil de modélisation UML pour la création des diagrammes.
 
 ## Installation
 
