@@ -64,3 +64,18 @@ Dépendance :
 UserInterface dépend temporairement de SoundDetectionModule (0 à 1 interaction avec 1 ou plusieurs modules).
 
 ## 5) Activité :
+
+L'activation du système et la capture des sons :
+Le système démarre lorsque l'utilisateur l'active, et il commence à analyser en continu les sons ambiants via un microphone.
+
+Décision sur le type de son :
+Si un son est identifié comme de la parole, il est transcrit en texte affiché à l'utilisateur.
+Si un bruit spécifique est détecté (alarme, sonnette, etc.), une alerte visuelle est générée.
+Gestion des priorités :
+Lorsqu'un conflit entre plusieurs événements survient, le système priorise les actions critiques avant de retourner à la capture des sons.
+
+Boucle continue :
+Tant que le système est actif, il boucle entre la capture des sons et le traitement des événements.
+
+Arrêt du système :
+Si l'utilisateur désactive le système, le processus s’arrête.
