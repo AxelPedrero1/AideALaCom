@@ -1,10 +1,11 @@
-**1) Cas d'utilisation :**
+** ##1) Cas d'utilisation :**
 
 Malentendant :
 C’est l’utilisateur principal du système. Il souhaite :
 - Voir la transcription des paroles.
 - Recevoir des alertes pour des événements spécifiques (bruit ambiant ou appel).
-## Orateur (acteur secondaire) :
+  
+Orateur (acteur secondaire) :
 C’est une personne qui parle et dont le discours est transcrit. Il interagit indirectement avec le système, mais son rôle est essentiel pour déclencher la transcription.
 
 Le malentendant a besoin de suivre la conversation en cours. Ce besoin est représenté par le cas d’utilisation "Voir la transcription".
@@ -16,12 +17,12 @@ Une relation « extends » est utilisée entre "Être alerté" et "Bruit ambiant
 Pourquoi "extends" ?
 Le cas "Bruit ambiant + appel nom" est une extension de "Être alerté". Cela signifie que ce cas est optionnel et représente une situation plus spécifique dans laquelle un bruit particulier (comme une alarme ou un appel) déclenche l’alerte.
 
-**2) Séquence : **
+**##2) Séquence : **
 
 
-**3) Etats-transitions :**
+**##3) Etats-transitions :**
 
-**4) Classe :**
+**##4) Classe :**
 
 Classes :
 UserInterface : Classe centrale qui coordonne la transcription, les alertes, et les notifications sonores pour l'utilisateur.
@@ -35,4 +36,4 @@ UserInterface utilise TranscriptionModule et AlertModule comme composants perman
 Dépendance :
 UserInterface dépend temporairement de SoundDetectionModule (0 à 1 interaction avec 1 ou plusieurs modules).
 
-**5) Activité :**
+**##5) Activité :**
