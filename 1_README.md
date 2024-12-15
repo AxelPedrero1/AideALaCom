@@ -1,3 +1,7 @@
+Axel PEDRERO  |  Simon LOURS  |  Alberto MOUNGONDO  |  Younes KARMOUCHE |
+-------------------------------------------------------------------------
+
+
 # AideALaCom
 
 Ce projet est destiné à aider les personnes malentendantes, notamment dans des environnements bruyants tels que les réunions ou les groupes de travail. Le système permet aux utilisateurs de lire en temps réel ce que les autres disent en transformant les paroles en texte écrit affiché à l'écran. De plus, des alertes visuelles (lumières ou messages à l'écran) sont envoyées pour avertir l'utilisateur lorsqu'un bruit important, comme un appel de son nom ou une alarme, se produit.
